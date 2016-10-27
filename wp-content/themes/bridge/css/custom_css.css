@@ -1,4 +1,4 @@
-
+/*Custom CSS Perdura By Charlie*/
 
  .progress_number {
     margin: 0 2px 0 0;
@@ -17,7 +17,6 @@ header .header_inner_left {
     left: 37px;
     top: 4px;
 }
-
 
 @media only screen and (min-width: 769px) {
 .header_bottom {
@@ -228,9 +227,9 @@ font-size: 30px;
   margin-bottom: 120px;
 }
 
-
-
-
+.descargame{
+  background-color:blue;
+}
 /*responsive filter_holder*/
 
 @media only screen and (max-width: 600px) {
