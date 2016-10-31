@@ -248,7 +248,7 @@ font-size: 30px;
 
 @media only screen and (max-width:600px){
 
-/*Products*/
+/*Products 2 rows / en espera de aprobacion de cliente / no aprueba se elimina este codigo*/
 
   .projects_holder.v4.standard_no_space .filler,
   .projects_holder.v4.standard_no_space .mix,
@@ -277,6 +277,9 @@ font-size: 30px;
     width:48.3%
     }
 
+ /*-------
+ End new code Products
+ --------*/
 
 /*call to action distribuidor*/
 
