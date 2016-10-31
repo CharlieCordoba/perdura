@@ -245,11 +245,44 @@ font-size: 30px;
 
 }
 
-@media only screen and (max-width: 1400px) {
 
-}
+@media only screen and (max-width:600px){
 
-/*responsive for laptop 13"*/
-@media only screen and (max-width: 1273px) {
+/*Products*/
+
+  .projects_holder.v4.standard_no_space .filler,
+  .projects_holder.v4.standard_no_space .mix,
+  .projects_holder.v5.hover_text.no_space .filler,
+  .projects_holder.v5.hover_text.no_space .mix,
+  .projects_holder.v5.standard_no_space .filler,
+  .projects_holder.v5.standard_no_space .mix,
+  .projects_holder.v6.hover_text.no_space .filler,
+  .projects_holder.v6.hover_text.no_space .mix,
+  .projects_holder.v6.standard_no_space .filler,
+  .projects_holder.v6.standard_no_space .mix{
+    width:48.32%
+    }
+  .safari_browser .projects_holder.v4.hover_text.no_space .filler,
+  .safari_browser .projects_holder.v4.hover_text.no_space .mix,
+  .safari_browser .projects_holder.v4.standard_no_space .filler,
+  .safari_browser .projects_holder.v4.standard_no_space .mix,
+  .safari_browser .projects_holder.v5.hover_text.no_space .filler,
+  .safari_browser .projects_holder.v5.hover_text.no_space .mix,
+  .safari_browser .projects_holder.v5.standard_no_space .filler,
+  .safari_browser .projects_holder.v5.standard_no_space .mix,
+  .safari_browser .projects_holder.v6.hover_text.no_space .filler,
+  .safari_browser .projects_holder.v6.hover_text.no_space .mix,
+  .safari_browser .projects_holder.v6.standard_no_space .filler,
+  .safari_browser .projects_holder.v6.standard_no_space .mix{
+    width:48.3%
+    }
+
+
+/*call to action distribuidor*/
+
+    .call_to_action .column2.button_wrapper .qbutton {
+    position: static;
+    margin: 50px 0 0!important;
+    }
 
 }

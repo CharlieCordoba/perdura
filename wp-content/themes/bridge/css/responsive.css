@@ -2402,8 +2402,7 @@
     width: 100% !important;
     margin: 0 !important;
   }
-}
-
+  
 @media only screen and (max-width: 480px) {
   body.boxed .wrapper_inner,
   body.boxed footer,
@@ -3015,7 +3014,7 @@ Call To Action Section shortcode responsive styles - start
     font-size: 2.5em;
   }
   .qode-cta-section .qode-cta-section-text-wrapper .qode-cta-section-description-holder {
-    margin-bottom: 55px;
+    margin-bottom: 35px;
   }
   .qode-cta-section .qode-cta-section-text-wrapper .qode-cta-section-description {
     font-size: 1em;
